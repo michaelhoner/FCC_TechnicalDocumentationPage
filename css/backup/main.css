@@ -1,0 +1,32 @@
+html, body {
+    color: #4d4e53;
+    font-family: 'Open Sans',Arial,sans-serif;
+    line-height: 1.5;
+    margin-top: 20px;
+}
+
+/*#main-doc header {
+    text-align: left;
+    margin-bottom: 10px;
+}*/
+
+header {
+    color: #000;
+    font-size: 30px;
+    margin: 5px;
+    text-align: left;
+}
+
+section article {
+    margin: 30px;
+}
+/*p {
+    margin: 20px 0px 0px 5px;
+}*/
+section li {
+    margin: 20px 0px 0px 30px;
+}
+
+footer {
+    text-align: center;
+}
