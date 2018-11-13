@@ -1,7 +1,18 @@
-# FCC_TechnicalDocumentationPage
+# <h1><a href="https://michaelhoner.github.io/FCC_TechnicalDocumentationPage/">FCC_TechnicalDocumentationPage</a></h1>
 
+<p>Responsive Web Design Projects - Build a Technical Documentation Webpage, part of <a href="https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page">Free Code Camp</a> project work.</p>
 
-Responsive Web Design Projects - Build a Technical Documentation Page
+ <h3>Technologies used:</h3>
+ <ul>
+ 	<li>HTML5</li>
+ 	<li>CSS3</li>
+ 	<li>Bootstrap 4</li>
+  <li>Bootstrap 4 snippets</li>
+ </ul>
+ 
+ 
+ 
+<h4>USER STORIES</h4>
 
     Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/NdrKKL.
     
